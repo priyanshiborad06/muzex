@@ -132,13 +132,9 @@ $(document).ready(function(){
 
 $(document).ready(function(){
   $("#Art").owlCarousel({
-    // loop: true,
-    // margin: 30,
-    // center: true,
-    // nav: false,
-    // dots: false,
+   
     items: 1,
-    // autoplay: true,
+   
   });    
   
   var owl = $('#Art');
